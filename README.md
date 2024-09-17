@@ -11,7 +11,7 @@ Hi there! I'm a passionate coder on a mission to automate the mundane and empowe
 
 ### Future Projects
 
-#Web Development Automation:
+# Web Development Automation:
 
 Creating scripts to automate repetitive tasks in web development, such as generating boilerplate code, unit testing, deployment, etc.
 Developing tools to facilitate continuous integration and continuous deployment (CI/CD).
@@ -25,13 +25,13 @@ Scripts to automate repetitive tasks in various fields, such as marketing, sales
 Developing integrations between different applications to automate data transfer and business processes.
 Innovative and Ambitious Projects:
 
-#AI-Powered Automation:
+# AI-Powered Automation:
 
 Exploring the use of artificial intelligence and machine learning to create smarter and more adaptive automation scripts.
 Developing tools to automate complex tasks that require decision-making or data analysis.
 Low-Code/No-Code Automation:
 
-#Creating a platform or framework that allows non-technical users to create their own automation scripts without needing extensive programming knowledge.
+# Creating a platform or framework that allows non-technical users to create their own automation scripts without needing extensive programming knowledge.
 Large-Scale Open Source Automation:
 
 Launching an ambitious open-source project aimed at creating a comprehensive library of automation scripts for various domains and platforms.
