@@ -1,15 +1,15 @@
-# Me
+# Me 💎
 Hello I'm @yuuiichii.
 
 You can contact me on Telegram @[yuuii_chi](https://t.me/yuuii_chi)
 
 
-# About Me
+# About Me ✨
 Hi there! I'm a passionate coder on a mission to automate the mundane and empower people through technology. I love creating scripts that streamline workflows, boost productivity, and make everyone's lives a little easier. I'm a firm believer in the power of open source, and I actively contribute my scripts to the community so that we can all benefit. Your sponsorship will help me dedicate more time to developing new scripts, improving existing ones, and fostering a vibrant community around automation. Let's build a more efficient and enjoyable future together!
 
 
 
-# Future Projects
+# Future Projects ✈️
 
 ### Web Development Automation:
 
