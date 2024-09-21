@@ -35,4 +35,4 @@ Low-Code/No-Code Automation:
 Large-Scale Open Source Automation:
 
 Launching an ambitious open-source project aimed at creating a comprehensive library of automation scripts for various domains and platforms.
-Encouraging collaboration and contributions from the community to build a robust and accessible automation ecosystem for everyone.
+Encouraging collaboration and contributions from the community to build a robust and accessible automation ecosystem for everyone .
