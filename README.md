@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm yuuiichi</h1>
 <h3 align="center">I'm a developer who's passionate about building secure and reliable applications. When I'm not coding new features, you can find me exploring the depths of cybersecurity, responsibly disclosing vulnerabilities, and contributing to a safer online world.</h3>
 
