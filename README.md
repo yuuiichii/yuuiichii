@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Hacking!**
 
-- 📫 How to reach me **Telegram [@yuuii_chi](https://t.me/yuuii_chi)**
+- 📫 How to reach me ** [Telegram @yuuii_chi](https://t.me/yuuii_chi)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
