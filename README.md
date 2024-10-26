@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21538
-Fork on GitHub
-6820
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm yuuiichi</h1>
 <h3 align="center">I'm a developer who's passionate about building secure and reliable applications. When I'm not coding new features, you can find me exploring the depths of cybersecurity, responsibly disclosing vulnerabilities, and contributing to a safer online world.</h3>
